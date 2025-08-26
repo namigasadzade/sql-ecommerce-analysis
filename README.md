@@ -1,8 +1,9 @@
 # sql-ecommerce-analysis
 🛠️ E-commerce SQL Analysis (Work in Progress)
+
 📌 Project Overview
 
-This is my first analytics project using SQL.
+This is my analytics project using SQL.
 The goal is to analyze an E-commerce dataset and answer key business questions such as:
 
 Which products generate the most revenue?
